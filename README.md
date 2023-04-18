@@ -1,4 +1,3 @@
-# adegadoparque
-Adega do Parque 
+## Plataforma para links: Adega do Parque 
 
-## Criação de uma plataforma somente para Links usando apenas HTML e Tailwind CSS.
+# Uso apenas de HTML e Tailwind CSS.
